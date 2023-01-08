@@ -15,6 +15,5 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beawall)](https://solved.ac/beawall/)
   
-  ![Sexy-Relief's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sexy-Relief&show_icons=true&theme=dark)   
   
 </div>
